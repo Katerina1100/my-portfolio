@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-// Се претпоставува дека имаш слики во 'public' директориумот
+
 const skills = [
-  { imgSrc: "/html.png" },
-  {  imgSrc: "/css-3.png" },
+  { imgSrc: "/html.webp" },
+  {  imgSrc: "/css-3.webp" },
   { imgSrc: "js.webp" },
   { imgSrc: "/react.webp" },
   { imgSrc: "/bootstrap.webp" },
