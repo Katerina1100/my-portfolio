@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 
 const skills = [
-  { imgSrc: "/html.webp" },
+  { imgSrc: "html.webp" },
   {  imgSrc: "/css-3.webp" },
   { imgSrc: "js.webp" },
   { imgSrc: "/react.webp" },
