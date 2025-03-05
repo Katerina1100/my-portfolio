@@ -1,0 +1,53 @@
+.home h1{
+  color: #8ebde4;
+  font-size: 40px;
+}
+.home p{
+  color: #388bcf;
+  font-size: x-large;
+}
+
+.photo{
+  border-bottom: #388bcf 10px solid;
+}
+.skill{
+  border: #388bcf 1px solid;
+  border-radius: 10px;
+  padding: 10px;
+  
+}
+
+.skill:hover{
+  transform: scale(1.05);
+  transition: all 0.5s ease-in-out;
+}
+
+.title{
+  color: #4aa9f7;
+  margin-bottom: 40px;
+  
+}
+
+.projectss{
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 25px;
+  color: black;
+}
+
+
+.card-body{
+  background-color: #8ebde4;
+  border: #388bcf 1px solid;
+  border-radius: 10px;
+}
+
+.card-body:hover{
+  transform: scale(1.04);
+  transition: all 0.5s ease-in-out;
+}
+
+#contact{
+  border: #388bcf 1px solid;
+  border-radius: 10px;
+}
